@@ -1,4 +1,6 @@
-com/example/helloworld/BuildConfig.java
- com.example.helloworld.BuildConfig
-com/example/helloworld/MainActivity.java
- com.example.helloworld.MainActivity
+com/example/twoactivities/BuildConfig.java
+ com.example.twoactivities.BuildConfig
+com/example/twoactivities/MainActivity.java
+ com.example.twoactivities.MainActivity
+com/example/twoactivities/SecondActivity.java
+ com.example.twoactivities.SecondActivity
