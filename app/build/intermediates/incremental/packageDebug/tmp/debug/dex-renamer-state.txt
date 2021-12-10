@@ -1,4 +1,4 @@
-#Fri Dec 10 15:43:02 NPT 2021
+#Fri Dec 10 16:47:25 NPT 2021
 base.2=C\:\\Users\\dell\\AndroidStudioProjects\\TwoActivities\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\5\\classes.dex
 path.2=5/classes.dex
 base.1=C\:\\Users\\dell\\AndroidStudioProjects\\TwoActivities\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
