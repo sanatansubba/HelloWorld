@@ -2242,6 +2242,7 @@ int layout text_view_without_line_height 0x7f0b006e
 int mipmap ic_launcher 0x7f0c0000
 int mipmap ic_launcher_round 0x7f0c0001
 int plurals mtrl_badge_content_description 0x7f0d0000
+int string _0 0x7f0e0065
 int string abc_action_bar_home_description 0x7f0e0000
 int string abc_action_bar_up_description 0x7f0e0001
 int string abc_action_menu_overflow_description 0x7f0e0002
@@ -2278,6 +2279,7 @@ int string character_counter_overflowed_content_description 0x7f0e0020
 int string character_counter_pattern 0x7f0e0021
 int string chip_text 0x7f0e0022
 int string clear_text_end_icon_content_description 0x7f0e0023
+int string count 0x7f0e0066
 int string error_icon_content_description 0x7f0e0024
 int string exposed_dropdown_menu_content_description 0x7f0e0025
 int string fab_transformation_scrim_behavior 0x7f0e0026
@@ -2342,6 +2344,7 @@ int string path_password_eye_mask_visible 0x7f0e0060
 int string path_password_strike_through 0x7f0e0061
 int string search_menu_title 0x7f0e0062
 int string status_bar_notification_info_overflow 0x7f0e0063
+int string toast 0x7f0e0067
 int string toast_message 0x7f0e0064
 int style AlertDialog_AppCompat 0x7f0f0000
 int style AlertDialog_AppCompat_Light 0x7f0f0001
