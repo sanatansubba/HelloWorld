@@ -4,11 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-<<<<<<< HEAD
     tools:context=".MainActivity">
-=======
-    tools:context="com.example.twoactivities.MainActivity">
->>>>>>> origin/Task-4
 
     <TextView
         android:id="@+id/text_header_reply"
@@ -41,11 +37,7 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="16dp"
         android:layout_marginRight="16dp"
-<<<<<<< HEAD
         android:text="Send"
-=======
-        android:text="@string/button_main"
->>>>>>> origin/Task-4
         android:onClick="launchSecondActivity"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintRight_toRightOf="parent" />
@@ -54,7 +46,6 @@
         android:id="@+id/editText_main"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-<<<<<<< HEAD
         android:layout_marginStart="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginBottom="16dp"
@@ -62,14 +53,6 @@
         android:hint="@string/edit_text_main"
         android:inputType="textLongMessage"
         android:minHeight="48dp"
-=======
-        android:layout_marginBottom="16dp"
-        android:layout_marginEnd="8dp"
-        android:layout_marginStart="8dp"
-        android:ems="10"
-        android:hint="@string/editText_main"
-        android:inputType="textLongMessage"
->>>>>>> origin/Task-4
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/button_main"
         app:layout_constraintStart_toStartOf="parent" />
